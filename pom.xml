@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
-	<description>Simplest possible dinesh 1234 project</description>
+	<description>Simplest possible dinesh 123456 project</description>
 
 	<build>
 		<plugins>
