@@ -47,6 +47,7 @@ spec:
       steps {
         container('maven-bld') {
           sh """
+             ls -a && pwd 
              mvn clean install
           """
         }
