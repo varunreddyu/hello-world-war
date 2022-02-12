@@ -1,6 +1,6 @@
 Hello World! (WAR-style)
 
-xzczfzxczxczczxc
+czczxc
 v
 ===============
 
